@@ -1,0 +1,247 @@
+
+body{
+    
+    background-color: rgb(245, 245, 245);
+}
+header{
+    background-color: rgb(150, 168, 150);;
+    height: 80px;
+}
+/*
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo img{
+    
+    width:5% ;
+    margin-left: 400px;
+    margin-right: 5px;
+}
+.logo h2{
+    
+    padding-right: 100px;
+    margin-left: 5px;
+    color: aliceblue;
+}*/
+.text-titulo{
+   
+  
+   margin-left: 200px;
+   margin-top: 40px;
+   margin-bottom: -50px;
+   font-size: 20px;
+   width: 120px;
+   color: rgb(0, 0, 0);
+   
+   
+    
+    
+
+}
+
+#Registrar-producto{
+    display: flex;
+    margin-left: 600px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+
+
+.flex-container{
+    display: flex;
+    
+    
+    
+    
+}
+.logo{
+    display: flex;
+    width: 50%;
+    justify-content: right;
+    margin-top: 3px;
+
+}
+
+.nombre-empresa{
+    display: flex;
+    height: 70%;
+    width: 100%;
+    padding-top: 30%;
+    color: rgb(0, 0, 0);
+    margin-top: 3px;
+    
+}
+
+/*estilos productos*/
+.container{
+  
+    width: 470px;
+    height: 300px;
+    display: flex;
+    margin-top: 30px;
+    gap: 5px;
+    padding: 60px;
+    flex-wrap: wrap;
+    margin-bottom: 400px;
+    
+
+}
+.card{
+    background-color: rgb(108, 23, 188);
+    width: 20%;
+    height: 80px;
+    display: flex;
+    border-radius: 6px;
+    overflow: hidden;
+    background:  rgb(150, 168, 150);;
+    box-shadow: 0px 1px 2px rgb(0,0,0,0.2);
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 2px;
+    margin-top: -2PX;
+    padding-bottom: 400px;
+    padding: 27px;
+    
+    
+    
+
+
+}
+.card figure img{
+    display: flex;
+    width: 100px;
+    height: 80px;
+    margin-top: -20px;
+    
+
+}
+.boton-eliminar-producto img{
+    width: 15px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 1px;
+    margin-left: 1px;
+    
+}
+
+
+.banner{
+    display: flex;
+    width: 1px
+    
+}
+.contenido{
+    font-size: 10px;
+    margin-top: 20px;
+    
+
+    
+
+}
+
+.contenido p{
+    margin-top: 5px;
+
+}
+.contenido h3{
+    margin-top: -7px;
+}
+
+.inputs{
+    display: flex;
+    flex-wrap: wrap;
+   
+    margin-left: 600px;
+    margin-top: -400px;
+    width: 300px;
+    height: 100px;
+    
+
+    gap: 20px;
+
+}
+
+.inputs input{
+    width: 283px;
+   border-radius: 10px ;;
+   height: 40px;;
+   font-family:'calibri';
+   border: 1px  solid #74a07f ;
+   margin-left: -80px;
+   
+}
+
+.botones{
+    display: flex;
+    margin-left: 520px;
+    margin-top: -200px;
+    width: 400px;
+    height: 40px;
+    gap: 10px;
+    font-size: 60px;
+}
+.botones input{
+    width: 140px;
+    border-radius: 10px;
+    border: 1px  solid #74a07f;
+    
+}
+.botones input:hover{
+    font-size: 18px;
+    border:2px  solid #74a07f;
+    
+}
+.card figure img:hover{
+    width: 130px;
+    height: 120px;
+    margin-top: -20px;
+}
+
+.container-footer{
+    display: flex;
+    flex-wrap: wrap;
+    background-color:  #74a07f ;
+    height: 120px;
+    
+    
+}
+.logo-footer{
+    justify-content: center;
+    margin-left: 400px;
+    margin-left: 400px;
+    
+}
+.logo-footer img{
+    margin-top: -17px;
+}
+.nombre-footer{
+    
+    margin-left: 4px;
+    margin-top: -1px;
+    
+    height: 50px;
+    
+
+    
+
+}
+.parrafos-footer{
+    display: flex;
+    margin-left: 405px;
+    margin-top: -1px;
+    flex-wrap: wrap;
+    font-size: 12px;
+    gap: 70px;
+
+
+}
+.parrafo{
+    margin-top: -17px;
+    margin-left: 500px;
+    font-size: 12px;
+}
+
+
+

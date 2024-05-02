@@ -1,0 +1,74 @@
+{
+  "imagenes": [
+    {
+      "id": 1,
+      "nombre": "Front-end vs. Back-end: ¡Descubre el lado perfecto para ti! #LuchaDev",
+      "precio": "3 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/QjOWz9avkg8"
+      
+    },
+
+    {
+      "id": 2,
+      "nombre": "Front-end vs. Back-end: ¡Descubre el lado perfecto para ti! #LuchaDev",
+      "precio": "3 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/QjOWz9avkg8"
+      
+    },
+
+    {
+      "id": 3,
+      "nombre": "Front-end vs. Back-end: ¡Descubre el lado perfecto para ti! #LuchaDev",
+      "precio": "3 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/QjOWz9avkg8"
+      
+    },
+
+    {
+      "id": 4,
+      "nombre": "Front-end vs. Back-end: ¡Descubre el lado perfecto para ti! #LuchaDev",
+      "precio": "3 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/QjOWz9avkg8"
+      
+    },
+
+    {
+      "id": 5,
+      "nombre": "Front-end vs. Back-end: ¡Descubre el lado perfecto para ti! #LuchaDev",
+      "precio": "3 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/QjOWz9avkg8"
+      
+    },
+
+    {
+      "id": 6,
+      "nombre": "Front-end vs. Back-end: ¡Descubre el lado perfecto para ti! #LuchaDev",
+      "precio": "3 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/QjOWz9avkg8"
+      
+    },
+    {
+      "id": 7,
+      "nombre": "Front-end vs. Back-end: ¡Descubre el lado perfecto para ti! #LuchaDev",
+      "precio": "3 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/QjOWz9avkg8"
+      
+    },
+
+    {
+      "id": 8,
+      "nombre": "Front-end vs. Back-end: ¡Descubre el lado perfecto para ti! #LuchaDev",
+      "precio": "3 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/QjOWz9avkg8"
+      
+    },
+    {
+      "id": 9,
+      "nombre": "Front-end vs. Back-end: ¡Descubre el lado perfecto para ti! #LuchaDev",
+      "precio": "3 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/QjOWz9avkg8"
+      
+    }
+    
+  ]
+}
